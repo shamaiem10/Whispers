@@ -2,7 +2,7 @@
 
 > “Travel far, capture moments, and let your whispers echo.”  
 
-![Pastel Banner](https://i.pinimg.com/originals/6a/c7/80/6ac780f0649e8e2497148d50edf432c3.gif)  
+![Pastel Banner](https://github.com/shamaiem10/Whispers/blob/main/travelani.gif)  
 
 Whispers is a **personal travel memory sharing app** where users can share their travel experiences, tag moods and vibes, and explore public journeys from other travelers. Built with **Flask**, **SQLite**, and a sprinkle of AI magic.  
 
